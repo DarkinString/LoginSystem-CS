@@ -1,0 +1,14 @@
+C:\Users\Abigail Rivera\Miprimerprograma\bin\Debug\net10.0\Miprimerprograma.exe
+C:\Users\Abigail Rivera\Miprimerprograma\bin\Debug\net10.0\Miprimerprograma.deps.json
+C:\Users\Abigail Rivera\Miprimerprograma\bin\Debug\net10.0\Miprimerprograma.runtimeconfig.json
+C:\Users\Abigail Rivera\Miprimerprograma\bin\Debug\net10.0\Miprimerprograma.dll
+C:\Users\Abigail Rivera\Miprimerprograma\bin\Debug\net10.0\Miprimerprograma.pdb
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.AssemblyInfoInputs.cache
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.AssemblyInfo.cs
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.csproj.CoreCompileInputs.cache
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.dll
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\refint\Miprimerprograma.dll
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.pdb
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\Miprimerprograma.genruntimeconfig.cache
+C:\Users\Abigail Rivera\Miprimerprograma\obj\Debug\net10.0\ref\Miprimerprograma.dll
